@@ -7,7 +7,7 @@ import subprocess
 
 
 ROOT = Path(__file__).resolve().parents[1]
-OUTPUT = ROOT / "docs" / "assets" / "repository-streak.svg"
+OUTPUT = ROOT / "docs" / "assets" / "practice-streak-board.svg"
 WINDOW_DAYS = 30 * 7
 
 
