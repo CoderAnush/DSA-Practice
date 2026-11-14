@@ -168,7 +168,7 @@ Consistency beats intensity. Use this lightweight board to record focused practi
 
 <div align="center">
 
-<img src="./docs/assets/repository-streak.svg" alt="Repository-only practice streak board" width="900" />
+<img src="./docs/assets/repository-streak.svg?v=1eec741" alt="Repository-only practice streak board" width="900" />
 
 </div>
 
