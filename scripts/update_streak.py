@@ -85,9 +85,9 @@ def render(total: int, current: int, longest: int, grid: str) -> str:
   <rect x="34" y="102" width="832" height="128" rx="9" fill="url(#card)" stroke="#1f2937"/>
   <line x1="311" y1="122" x2="311" y2="210" stroke="#64748b"/>
   <line x1="589" y1="122" x2="589" y2="210" stroke="#64748b"/>
-  <text x="172" y="146" text-anchor="middle" fill="#7dd3fc" font-family="Arial,sans-serif" font-size="16">REPOSITORY CONTRIBUTIONS</text>
-  <text x="172" y="187" text-anchor="middle" fill="#f8fafc" font-family="Arial,sans-serif" font-size="38" font-weight="700">{total}</text>
-  <text x="172" y="211" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="14">solutions and notes</text>
+  <text x="172" y="146" text-anchor="middle" fill="#7dd3fc" font-family="Arial,sans-serif" font-size="16">PROBLEMS SOLVED</text>
+  <text x="172" y="187" text-anchor="middle" fill="#f8fafc" font-family="Arial,sans-serif" font-size="38" font-weight="700">0</text>
+  <text x="172" y="211" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="14">out of 385</text>
   <text x="450" y="146" text-anchor="middle" fill="#7dd3fc" font-family="Arial,sans-serif" font-size="16">CURRENT STREAK</text>
   <circle cx="450" cy="181" r="26" fill="none" stroke="#7c3aed" stroke-width="6" stroke-dasharray="120 44">
     <animateTransform attributeName="transform" type="rotate" from="0 450 181" to="360 450 181" dur="6s" repeatCount="indefinite"/>
