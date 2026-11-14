@@ -168,7 +168,7 @@ Consistency beats intensity. Use this lightweight board to record focused practi
 
 <div align="center">
 
-<img src="./assets/repository-streak.svg" alt="Repository-only practice streak board" width="900" />
+<img src="./docs/assets/repository-streak.svg" alt="Repository-only practice streak board" width="900" />
 
 </div>
 
@@ -180,13 +180,13 @@ This tracker is intentionally **repository-specific**: a practice day counts onl
 
 <div align="center">
 
-<img src="./assets/msd-trust-the-process.gif" alt="Animated Trust the Process image featuring M. S. Dhoni" width="420" />
+<img src="./docs/assets/msd-trust-the-process.gif" alt="Animated Trust the Process image featuring M. S. Dhoni" width="420" />
 
 </div>
 
 <div align="center">
 
-<img src="./assets/krishna-shloka.gif" alt="Animated Krishna artwork with Bhagavad Gita shloka and meaning" width="760" />
+<img src="./docs/assets/krishna-shloka.gif" alt="Animated Krishna artwork with Bhagavad Gita shloka and meaning" width="760" />
 
 </div>
 
